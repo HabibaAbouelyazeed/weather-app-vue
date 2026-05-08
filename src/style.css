@@ -20,3 +20,8 @@ body {
   min-height: 100vh;
   color: white;
 }
+
+.card-bg {
+  background: var(--Neutral-700);
+  border: 1px solid var(--Neutral-600);
+}
